@@ -2,3 +2,4 @@
 可以切换前后摄像头
 客户端FFmpegFrameRecorder进行录像采集
 服务端用red5服务器，使用ofla进行播放
+流媒体播放使用的是vitamio可以实现弹幕
